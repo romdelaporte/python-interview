@@ -10,17 +10,17 @@
 - [ ] Documenting Code
 
 ### 2.-Algorithmns: Big-O Notation
-- [X] O(1)
-- [X] O(n)
-- [X] O(n^2)
-- [X] O(n*m)
-- [X] O(n^3)
-- [X] O(logn)
-- [X] O(nlogn)
-- [X] O(2^n)
-- [X] O(c^n)
-- [X] O(sqrt(n))
-- [X] O(n!)
+-[X] $\mathcal{O} (1)$
+-[X] $\mathcal{O} (n)$
+-[X] $\mathcal{O} (n^2)$
+-[X] $\mathcal{O} (n*m)$
+-[X] $\mathcal{O} (n^3)$
+-[X] $\mathcal{O} (\log n)$
+-[X] $\mathcal{O} (n*\log n)$
+-[X] $\mathcal{O} (2^n)$
+-[X] $\mathcal{O} (c^n)$
+-[X] $\mathcal{O} (\sqrt{n})$
+-[X] $\mathcal{O} (n!)$
 
 ### 3.- Data Structures Examples
 - [ ] Arrays
