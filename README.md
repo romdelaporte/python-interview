@@ -1,13 +1,16 @@
 # Interview practice
 
 ### 1.- Python Basics
-- [ ] Operators, Data Types, Numbers, Lists, Tuples, Dictionaries, Sets, Conditional, Loops, Functions, Objects
-- [ ] Python comprehensions
+- [X] Numbers
+- [X] Collections & Basic data types
+- [X] Python comprehensions
+- [X] OOP
 - [ ] Functional Programming
 - [ ] Decorators
-- [ ] OOP
-- [ ] Testing
-- [ ] Documenting Code
+- [ ] Dates & Time
+- [ ] Regular expressions
+- [ ] Practice
+
 
 ### 2.-Algorithmns: Big-O Notation
 - [X] O(1)
@@ -22,12 +25,48 @@
 - [X] O(sqrt(n))
 - [X] O(n!)
 
-### 3.- Data Structures Examples
-- [ ] Arrays
-- [ ] Linked lists
+### 3.- Algorithms & Data Structures
+- [ ] Arrays & Hashing
+    - [ ] Stack
+    - [ ] Two pointers
+        - [ ] Binary search
+        - [ ] Sliding Window
+        - [ ] Linked Lists
+            - [ ] Trees
+                - [ ] Tries
+                - [ ] Backtracking
+                    - [ ] Heap/Priority queue
+                    - [ ] Graphs
+                    - [ ] 1-D DP
+                        - [ ] Intervals
+                        - [ ] Greedy
+                        - [ ] Advanced graphs
+                        - [ ] 2-D DP
+                        - [ ] Bit manipulation
+                            - [ ] Math & Geometry
 
-### 4.- Statistics & Regressions with Python
 
-### 5.- Scikit-learn
 
-### 6.- Tensorflow
+### 4.- Scikit-learn
+- [ ] Linear Regressions
+
+### 5.- Tensorflow
+- [ ] Deep learning example
+
+### 6.- Other
+- [ ] Beautiful soup
+- [ ] Selenium
+- [ ] Scrappy
+- [ ] Matplotlib, Seaborn
+- [ ] Streamlit
+- [ ] Pandas
+- [ ] Numpy
+- [ ] Scipy
+- [ ] pytorch
+- [ ] NLTK
+- [ ] Apache Airflow 
+
+
+
+### 7.- Project ideas
+- [ ] Real time analytics: NiFi, Zookeper, Kafka, Python, Spark, Chart.js
