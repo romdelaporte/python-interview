@@ -3,9 +3,9 @@
 ### 1.- Python Basics
 - [X] Numbers
 - [X] Collections & Basic data types
-- [X] Python comprehensions
 - [X] OOP
-- [ ] Functional Programming
+- [X] Functional Programming
+- [X] Python comprehensions
 - [ ] Decorators
 - [ ] Dates & Time
 - [ ] Regular expressions
@@ -48,14 +48,14 @@
 
 
 ### 4.- Machine Learning Algorithms
-- [X] ### Supervised Learning
+- [X] Supervised Learning
     - [X] Linear Regression
     - [X] Decision Trees
     - [X] Random Forest
-- [X] ### Unsupervised Learning
+- [X] Unsupervised Learning
     - [X] K-Means Clustering
     - [X] Principal Component Analysis (PCA)
-- [ ] ### Reinforcement Learning
+- [ ] Reinforcement Learning
     - [X] Q-Learning
     - [X] Deep Reinforcement Learning
 
