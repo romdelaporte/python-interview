@@ -6,10 +6,10 @@
 - [X] OOP
 - [X] Functional Programming
 - [X] Python comprehensions
-- [ ] Decorators
-- [ ] Dates & Time
-- [ ] Regular expressions
-- [ ] Practice
+- [X] Decorators
+- [ ] Dates & Time + Calendar
+- [X] Regular expressions
+- [X] Practice
 
 
 ### 2.-Algorithmns: Big-O Notation
