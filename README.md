@@ -26,7 +26,7 @@
 - [X] O(n!)
 
 ### 3.- Algorithms & Data Structures
-- [ ] Arrays & Hashing
+- [X] Arrays & Hashing
     - [ ] Stack
     - [ ] Two pointers
         - [ ] Binary search
@@ -47,13 +47,20 @@
 
 
 
-### 4.- Scikit-learn
-- [ ] Linear Regressions
+### 4.- Machine Learning Algorithms
+- [X] ### Supervised Learning
+    - [X] Linear Regression
+    - [X] Decision Trees
+    - [X] Random Forest
+- [X] ### Unsupervised Learning
+    - [X] K-Means Clustering
+    - [X] Principal Component Analysis (PCA)
+- [ ] ### Reinforcement Learning
+    - [X] Q-Learning
+    - [X] Deep Reinforcement Learning
 
-### 5.- Tensorflow
-- [ ] Deep learning example
 
-### 6.- Other
+### 5.- Others
 - [ ] Beautiful soup
 - [ ] Selenium
 - [ ] Scrappy
@@ -62,11 +69,11 @@
 - [ ] Pandas
 - [ ] Numpy
 - [ ] Scipy
-- [ ] pytorch
+- [ ] PyTorch
 - [ ] NLTK
 - [ ] Apache Airflow 
 
 
 
 ### 7.- Project ideas
-- [ ] Real time analytics: NiFi, Zookeper, Kafka, Python, Spark, Chart.js
+- [ ] Real time analytics (Network Analysis), NiFi, Zookeper, Kafka, Python, Spark, Chart.js
