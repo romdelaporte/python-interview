@@ -55,7 +55,7 @@
 - [X] Unsupervised Learning
     - [X] K-Means Clustering
     - [X] Principal Component Analysis (PCA)
-- [ ] Reinforcement Learning
+- [X] Reinforcement Learning
     - [X] Q-Learning
     - [X] Deep Reinforcement Learning
 
@@ -75,5 +75,5 @@
 
 
 
-### 7.- Project ideas
+### 6.- Project ideas
 - [ ] Real time analytics (Network Analysis), NiFi, Zookeper, Kafka, Python, Spark, Chart.js
