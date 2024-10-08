@@ -27,12 +27,12 @@
 
 ### 3.- Algorithms & Data Structures
 - [X] Arrays & Hashing
-    - [ ] Stack
-    - [ ] Two pointers
-        - [ ] Binary search
-        - [ ] Sliding Window
-        - [ ] Linked Lists
-            - [ ] Trees
+    - [X] Stack
+    - [X] Two pointers
+        - [X] Binary search
+        - [X] Sliding Window
+        - [X] Linked Lists
+            - [X] Trees
                 - [ ] Tries
                 - [ ] Backtracking
                     - [ ] Heap/Priority queue
